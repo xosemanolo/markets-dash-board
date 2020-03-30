@@ -1,7 +1,7 @@
 {
-  "name": "electron-react-webpack-boilerplate",
+  "name": "markets-dashboard",
   "version": "1.8.0",
-  "description": "Minimal Electron, React, PostCSS and Webpack boilerplate to help you get started with building your next app.",
+  "description": "Markets Dash Board electron App",
   "license": "MIT",
   "private": false,
   "repository": {
@@ -13,9 +13,8 @@
     "url": "https://github.com/alexdevero/electron-react-webpack-boilerplate.git/issues"
   },
   "author": {
-    "name": "Alex Devero",
-    "email": "deveroalex@gmail.com",
-    "url": "https://github.com/alexdevero"
+    "name": "xosemanolo",
+    "email": "xose.manolo.rodriguez@gmail.com"
   },
   "keywords": [
     "app",
